@@ -9,7 +9,7 @@
 
 <p><strong>LINQ to JavaScript</strong> tests written in <a herf="https://github.com/jasmine/jasmine">Jasmine</a> testing framework with all test cases you can find it in <em>Unit Tests</em> folder and the runner is <em>[LinqToJavascriptTestRunner.html]</em></p>
 
-<p><strong>Note:</strong> Arrow functions (lambda functions) was introduced in <a href="http://es6-features.org/#ExpressionBodies">ECMA 6</script> Specifications, it's totally new and only new versions of browsers support it. But by the end of the day it's a function so both of codes belows are equivilant.</p>
+<p><strong>Note:</strong> Arrow functions (lambda functions) was introduced in <a href="http://es6-features.org/#ExpressionBodies">ECMA 6</a> Specifications, it's totally new and only new versions of browsers support it. But by the end of the day it's a function so both of codes belows are equivilant.</p>
 <table>
 <tr>
 <th>Arrow Functions Syntax</th>
