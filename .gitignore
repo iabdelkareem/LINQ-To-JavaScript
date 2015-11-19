@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.name
+.idea/encodings.xml
+*.xml
+.idea/LINQ-To-JavaScript.iml
